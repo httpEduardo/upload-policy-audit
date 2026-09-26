@@ -1,0 +1,6 @@
+{
+  "max_mb": 10,
+  "allowed_extensions": ["jpg", "jpeg", "png", "pdf"],
+  "allowed_mime": ["image/jpeg", "image/png", "application/pdf"],
+  "scan_enabled": true
+}
